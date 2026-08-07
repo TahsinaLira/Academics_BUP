@@ -1,9 +1,6 @@
 <h1>Academic Projects and Lab Works</h1>
 <br>
 <h2>1st Year</h2>
-<h3>Semester 1</h3>
-ICE-1102: Structured Programming
-<br>
 <h3>Semester 2</h3>
 ICE-1202: Object Oriented Design and Programming
 <br>
