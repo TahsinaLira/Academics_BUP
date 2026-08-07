@@ -12,12 +12,12 @@ ICE-1201: Object Oriented Design and Programming
 ICE-2107: Data Communication and Computer Networks
 <br>
 <h3>Semester 4</h3>
-ICE-2201: Data Stucture
+<pre>ICE-2201: Data Stucture
 ICE-2204: Database Management System
-Math-2207: Linear Algebra and Statistics
+Math-2207: Linear Algebra and Statistics</pre>
 <br>
 <h2>3rd Year</h2>
 <h3>Semester 5</h3>
-ICE-3101: Analysis and Design of Algorithm
+<pre>ICE-3101: Analysis and Design of Algorithm
 ICE-3103: Operating System
-ICE-3107: Digital Signal Processing
+ICE-3107: Digital Signal Processing</pre>
