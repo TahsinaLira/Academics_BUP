@@ -18,6 +18,7 @@
 [ICE-3102: Analysis and Design of Algorithm](https://github.com/TahsinaLira/ICE3102)<br>
 [ICE-3104: Operating System](https://github.com/TahsinaLira/ICE3104)<br>
 [ICE-3108: Digital Signal Processing](https://github.com/TahsinaLira/ICE3108)
-<h3>Semester 6</h3>
+<br>
+<h3>Semester 5</h3>
 
 [ICE-3205: Web Technology](https://github.com/TahsinaLira/ICE-3205)<br>
