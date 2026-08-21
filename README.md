@@ -10,7 +10,7 @@
 
 [ICE-2202: Data Stucture](https://github.com/TahsinaLira/ICE2202)<br>
 [ICE-2205: Database Management System](https://github.com/TahsinaLira/ICE2205)<br>
-[Math-2207: Linear Algebra and Statistics](https://github.com/TahsinaLira/MATH2207)
+[Math-2207: Linear Algebra](https://github.com/TahsinaLira/MATH2207)
 <br>
 <h2>3rd Year</h2>
 <h3>Semester 5</h3>
